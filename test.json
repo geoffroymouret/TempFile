@@ -1,24 +1,24 @@
 {
   "All": {
     "SP": {
-      "CP": 35,
-      "DLC": 10,
-      "": 60
+      "CP": ["value": 35, "avgTimePlayed" : 10],
+      "DLC": ["value": 10, "avgTimePlayed" : 10],
+      "": ["value": 60, "avgTimePlayed" : 10]
     },
     "CP": {
       "CP": {
-        "CP": 6,
-        "DLC": 12,
-        "": 20
+        "CP": ["value": 6, "avgTimePlayed" : 10],
+        "DLC": ["value": 12, "avgTimePlayed" : 10],
+        "": ["value": 20, "avgTimePlayed" : 10]
       },
-      "DLC": 20,
-      "": 100
+      "DLC": ["value": 20, "avgTimePlayed" : 10],
+      "": ["value": 100, "avgTimePlayed" : 10]
     },
     "DLC": {
-      "CP": 15,
-      "DLC": 20,
-      "": 100
+      "CP": ["value": 15, "avgTimePlayed" : 10],
+      "DLC": ["value": 20, "avgTimePlayed" : 10],
+      "": ["value": 100, "avgTimePlayed" : 10]
     },
-    "": 400
+    "": ["value": 400, "avgTimePlayed" : 10]
   }
 }
