@@ -1,0 +1,22 @@
+{
+	"name": "All",
+	"playtime": 10,
+	"children": [
+		{
+		"name": "SP",
+		"value": 10
+		},
+		{
+		"name": "CP",
+		"value": 15
+		},
+		{
+		"name": "DLC",
+		"value": 3
+		},
+		{
+		"name": "",
+		"value": 30
+		}
+	]
+}
