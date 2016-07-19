@@ -1,24 +1,21 @@
 {
-  "All": {
-    "SP": {
-      "CP": [{"value": 35, "avgTimePlayed" : 10}],
-      "DLC": [{"value": 10, "avgTimePlayed" : 10}],
-      "": 60
-    },
-    "CP": {
-      "CP": {
-        "CP": [{"value": 6, "avgTimePlayed" : 10}],
-        "DLC": [{"value": 12, "avgTimePlayed" : 10}],
-        "": 20
-      },
-      "DLC": [{"value": 20, "avgTimePlayed" : 10}],
-      "": 100
-    },
-    "DLC": {
-      "CP": [{"value": 15, "avgTimePlayed" : 10}],
-      "DLC": [{"value": 20, "avgTimePlayed" : 10}],
-      "": 100
-    },
-    "": 400
-  }
+	"name": "All",
+	"children": [
+		{
+		"name": "SP",
+		"value": 10
+		},
+		{
+		"name": "CP",
+		"value": 15
+		},
+		{
+		"name": "DLC",
+		"value": 3
+		},
+		{
+		"name": "",
+		"value": 30
+		},
+	]
 }
