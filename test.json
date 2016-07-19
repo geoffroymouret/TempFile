@@ -3,22 +3,22 @@
     "SP": {
       "CP": [{"value": 35, "avgTimePlayed" : 10}],
       "DLC": [{"value": 10, "avgTimePlayed" : 10}],
-      "": [{"value": 60, "avgTimePlayed" : 10}]
+      "": 60
     },
     "CP": {
       "CP": {
         "CP": [{"value": 6, "avgTimePlayed" : 10}],
         "DLC": [{"value": 12, "avgTimePlayed" : 10}],
-        "": [{"value": 20, "avgTimePlayed" : 10}]
+        "": 20
       },
       "DLC": [{"value": 20, "avgTimePlayed" : 10}],
-      "": [{"value": 100, "avgTimePlayed" : 10}]
+      "": 100
     },
     "DLC": {
       "CP": [{"value": 15, "avgTimePlayed" : 10}],
       "DLC": [{"value": 20, "avgTimePlayed" : 10}],
-      "": [{"value": 100, "avgTimePlayed" : 10}]
+      "": 100
     },
-    "": [{"value": 400, "avgTimePlayed" : 10}]
+    "": 400
   }
 }
